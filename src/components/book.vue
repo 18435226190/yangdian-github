@@ -1,8 +1,12 @@
 <template>
   <div class="movie">
     <div class="tittle">
-      <b>影院热映</b>
-      <em>更多</em>
+      <h1>图书</h1>
+      <em>bookbookbookbookbookbookbookbook</em><br>
+      <em>bookbookbookbookbookbookbookbook</em><br>
+      <em>bookbookbookbookbookbookbookbook</em><br>
+      <em>bookbookbookbookbookbookbookbook</em><br>
+      <em>bookbookbookbookbookbookbookbook</em>
     </div>
   </div>
 </template>
