@@ -1,0 +1,12 @@
+*{padding:0;margin: 0;list-style: none}
+a,b,em,i,strong{color:#333;text-decoration: none;font-weight: normal;font-style: normal;vertical-align: top;white-space: normal;font-size: 0.26rem;display: inline-block}
+i{color:#999;font-size: 0.2rem}
+div{font-size: 0.16rem}
+span{display: inline-block;color: #333}
+#app{max-width: 720px;margin: 0 auto;min-width: 320px}
+.right{float: right}
+.left{float: left}
+b{color:#999}
+em{color:#42bd56}
+p{font-size: 0.3rem;color: #333}
+input{border: none;outline: none}
